@@ -52,6 +52,5 @@ La aplicación obtiene información procedente de **Microsoft Dynamics 365 Finan
 
 **CILSA**
 
-## Autor
 
 Desarrollo realizado en Microsoft Power Apps con integración a Dynamics 365 Finance & Operations mediante Dual-write.
